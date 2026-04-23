@@ -227,10 +227,6 @@ huggingface-cli download Qwen/Qwen3-Omni-30B-A3B-Thinking --local-dir ./Qwen3-Om
 huggingface-cli download Qwen/Qwen3-Omni-30B-A3B-Captioner --local-dir ./Qwen3-Omni-30B-A3B-Captioner
 ```
 
-当然，下面是**保持原有风格与语法**后，加入你要求信息的改写版本：
-
----
-
 ### Transformers Usage
 
 #### Installation
